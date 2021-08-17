@@ -16,10 +16,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kartik-05&show_icons=true&count_private=true&theme=dark" width=400"></a>
-</p>
     
 <h2 align='center'>Languages and Tools</h2><br/><br/>
 <p align='center'>
@@ -37,6 +33,11 @@
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </p>
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=kartik-05&show_icons=true&count_private=true&theme=dark" width=400"></a>
+</p>
+
 
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/kartik-05/kartik-05"></a>
